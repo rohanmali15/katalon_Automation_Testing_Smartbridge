@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Checkpoint_Chrome_Amazon_login __003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4dd04232-80ed-4494-be8f-ba37e8b4f96d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>834ed552-6dfb-4ff4-aa6f-58daebcdc8ba</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>81d64f3d-d7ba-40bc-9ddc-dc35b900141c</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

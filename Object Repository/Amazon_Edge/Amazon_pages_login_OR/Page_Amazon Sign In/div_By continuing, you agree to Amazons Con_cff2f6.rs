@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_By continuing, you agree to Amazons Con_cff2f6</name>
+   <tag></tag>
+   <elementGuidId>46598b6e-407a-4e52-99e0-4f97ac7f28ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#legalTextRow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='legalTextRow']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>73f6083e-5763-4a74-b348-926da102b303</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>legalTextRow</value>
+      <webElementGuid>2cf3810a-ccda-4fe0-9d9e-d640fa295486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-row a-spacing-top-medium a-size-small</value>
+      <webElementGuid>f5a57547-04d8-4a70-b07e-6ffe75d0c5f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  By continuing, you agree to Amazon's Conditions of Use and Privacy Notice.
+</value>
+      <webElementGuid>895c0373-24f5-45c4-a87c-b65a31c0b23e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;legalTextRow&quot;)</value>
+      <webElementGuid>da7e73a2-c040-4125-8107-301133e3b4ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='legalTextRow']</value>
+      <webElementGuid>e63485c7-47d8-48fc-b9b0-0272e240e1a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='authportal-main-section']/div[2]/div[2]/div/form/div/div/div/div[2]/div</value>
+      <webElementGuid>2bbc8081-c674-4895-b064-cfcd7433922e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div[2]/div</value>
+      <webElementGuid>224ec74b-ba57-4790-822c-a1e58c7d9abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'legalTextRow' and (text() = concat(&quot;
+  By continuing, you agree to Amazon&quot; , &quot;'&quot; , &quot;s Conditions of Use and Privacy Notice.
+&quot;) or . = concat(&quot;
+  By continuing, you agree to Amazon&quot; , &quot;'&quot; , &quot;s Conditions of Use and Privacy Notice.
+&quot;))]</value>
+      <webElementGuid>fa3c762b-94b3-43b3-a4ab-c05d81b67db1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

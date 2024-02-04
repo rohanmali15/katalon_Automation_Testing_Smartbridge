@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "5AA6B8D3F3F8B78C982D7E36E3A6295D",
+  "keywordClasses": [
+    {
+      "name": "com.test.demo.AmazonPage",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
