@@ -22,8 +22,8 @@ import internal.GlobalVariable
 
 public class AmazonPage {
 	@keyword
-	def CheckDropElementKatalon(Test Object, String option) 
-	{ boolean flag = false;
+	def CheckDropElementKatalon(Test Object, String option) {
+		boolean flag = false;
 		webelement element = webuicommonhelper
 	}
 }
